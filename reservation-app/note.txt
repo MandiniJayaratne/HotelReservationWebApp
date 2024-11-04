@@ -1,0 +1,121 @@
+PS G:\ALL\MJ7\PROJECTS\Reservation_App> cd bookingPS G:\ALL\MJ7\PROJECTS\Reservation_App\booking> npm i reac
+t-router-dom
+
+added 3 packages, and audited 1546 packages in 16s        
+
+261 packages are looking for funding
+  run `npm fund` for details
+  run `npm fund` for details
+
+8 vulnerabilities (2 moderate, 6 high)
+
+8 vulnerabilities (2 moderate, 6 high)
+
+To address all issues (including breaking changes), run:
+  npm audit fix --force
+
+Run `npm audit` for details.
+PS G:\ALL\MJ7\PROJECTS\Reservation_App\booking>
+ *  History restored 
+
+PS G:\ALL\MJ7\PROJECTS\Reservation_App> 
+ *  History restored 
+
+
+added 2 packages in 7s
+PS G:\ALL\MJ7\PROJECTS\Reservation_App> npm i --save @fortawe
+
+added 1 package, and audited 4 packages in 7s
+
+found 0 vulnerabilities
+PS G:\ALL\MJ7\PROJECTS\Reservation_App> npm i --save @fortawe
+
+added 1 package, and audited 5 packages in 6s
+
+found 0 vulnerabilities
+some/react-fontawesome@latest
+
+added 7 packages, and audited 12 packages in 5s
+
+found 0 vulnerabilities
+PS G:\ALL\MJ7\PROJECTS\Reservation_App> npm start
+npm error Missing script: "start"
+npm error
+npm error Did you mean one of these?
+npm error   npm star # Mark your favorite packages
+npm error   npm stars # View packages marked as favorites    
+npm error
+
+npm error A complete log of this run can be found in: C:\Users\Mandini\AppData\Local\npm-cache\_logs\2024-08-20T02_43_59_118Z-debug-0.log
+PS G:\ALL\MJ7\PROJECTS\Reservation_App> cd booking
+PS G:\ALL\MJ7\PROJECTS\Reservation_App\booking> npm start    
+
+> booking@0.1.0 start
+> react-scripts start
+
+(node:11460) [DEP_WEBPACK_DEV_SERVER_ON_AFTER_SETUP_MIDDLEWARE] DeprecationWarning: 'onAfterSetupMiddleware' option is depStarting the development server...
+
+
+
+
+-----------------------------------------------/////////////////////////////////////-----------------------------
+
+
+fns and fonticons (home)
+
+
+
+
+
+ background: radial-gradient(
+    circle at -8.9% 51.2%,
+    rgb(255, 124, 0) 0%,
+    rgb(255, 124, 0) 15.9%,
+    rgb(255, 163, 77) 15.9%,
+    rgb(255, 163, 77) 24.4%,
+    rgb(237, 240, 241) 24.5%,
+    rgb(191, 197, 200) 66%
+  );
+
+
+ rgb(27, 159, 139) 24.4%, the blue
+
+body {
+  background: radial-gradient(
+    circle at -8.9% 51.2%,
+    rgb(238, 248, 247) 0%,
+    rgb(226, 245, 242) 15.9%,
+    rgb(239, 227, 215) 15.9%,
+    rgb(240, 200, 36) 24.4%,
+    rgb(223, 241, 247) 24.5%,
+    rgb(255, 255, 255) 66%
+  );
+
+ background: radial-gradient(
+    circle at -8.9% 51.2%,
+    rgb(240, 200, 36) 0%,
+    rgb(240, 200, 36) 15.9%,
+    rgb(239, 227, 215) 15.9%,
+    rgb(226, 245, 242) 24.4%,
+    rgb(223, 241, 247) 24.5%,
+    rgb(255, 255, 255) 66%
+  );
+
+
+
+
+
+
+
+
+
+
+
+ <h1 className="headerTitle">
+              A lifetime of discounts? It's Genius.
+            </h1>
+            <p className="headerDesc">
+              Get rewarded for your travels – unlock instant savings of 10% or
+              more with a free Lamabooking account
+            </p>
+            <button className="headerBtn">Sign in / Register</button>

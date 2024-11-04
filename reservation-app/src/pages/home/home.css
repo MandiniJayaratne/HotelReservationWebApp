@@ -1,0 +1,46 @@
+body {
+  background-image: url("back11.jpg");
+  background-size: 100% 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  margin: 0;
+  height: 100vh;
+  overflow: auto; /* Allows scrolling */
+  position: relative; /* Required for the pseudo-element positioning */
+}
+
+body::before {
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.6);
+  pointer-events: none;
+  z-index: 1;
+}
+
+#root {
+  position: relative;
+  z-index: 2; /* This ensures your content is above the overlay */
+}
+
+.homeContainer {
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 30px;
+  width: "100vw";
+}
+
+h1 {
+  color: aliceblue;
+}
+
+.homeTitle {
+  width: 1024px;
+  font-size: 20px;
+}
