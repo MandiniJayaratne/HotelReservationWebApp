@@ -35,7 +35,7 @@ A comprehensive hotel reservation web application built using the MERN stack (Mo
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/MandiniJayaratne/HotelReservationWebApp.git
-   cd coffeeFind
+  
 
 2. **Backend Setup**:
    - Navigate to the backend directory:
